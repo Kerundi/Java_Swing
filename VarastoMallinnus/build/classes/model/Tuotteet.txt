@@ -1,0 +1,8 @@
+Habanero| ID: 1 | Hylly: 1 | Paikka: 2 | Korkeus: 1 | 22.0
+Barbados| ID: 2 | Hylly: 2 | Paikka: 2 | Korkeus: 1 | 7.0
+Naga| ID: 3 | Hylly: 7 | Paikka: 2 | Korkeus: 1 | 7.0
+Naga Murska| ID: 4 | Hylly: 3 | Paikka: 5 | Korkeus: 1 | 17.0
+Pahvia| ID: 5 | Hylly: 3 | Paikka: 5 | Korkeus: 1|Display
+Laatikoita| ID: 6 | Hylly: 3 | Paikka: 5 | Korkeus: 1|Myyntierat - karkit
+Sriracha| ID: 7 | Hylly: 6 | Paikka: 2 | Korkeus: 2 | 3.0
+Karkit| ID: 8 | Hylly: 3 | Paikka: 2 | Korkeus: 2 | 3.0
